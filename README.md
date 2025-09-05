@@ -9,8 +9,8 @@
 ## Map Download and Modification
 
 ```bash
-git clone https://github.com/king-uk/BiRRT.git
-cd RRT-Connect
+git clone https://github.com/king-uk/mppi_controller.git
+cd mppi_controller
 ```
 
 ## Please download BARN_dataset/grid_files from [BARN_dataset](https://www.cs.utexas.edu/~xiao/BARN/BARN.html)
