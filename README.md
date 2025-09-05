@@ -40,3 +40,9 @@ mkdir build && cd build
 cmake .. -Dquadrotor=0 && make
 ./guide_mppi
 ```
+
+## Result
+<p align="center">
+<img width="640" height="480" alt="Figure_1" src="figure/Bic_MPPI.png>
+</p>
+
